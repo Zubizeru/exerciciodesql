@@ -54,7 +54,7 @@ VALUES
 (11245, 'Juliana Alves Albuquerque', 'Obstretícia', 1234584),
 (11246, 'Pedro da Silva Santos', 'Nutrilogia Pediátrica', 658985),
 (11546,"Vinicius Lima de Oliveira", "Neonatologia", 458755), 
-(11468,"Bruna Paes Chavez", "Obstetrícia", 246585);
+(11468,"Bruna Paes Chavez", "Obstretícia", 246585);
 
 DELETE FROM `hospitalinfantil`.`medico` WHERE `especialidade` = 'Neonatologia';
 
