@@ -43,7 +43,6 @@ CREATE TABLE IF NOT EXISTS `hospitalinfantil`.`nascimento` (
   `idmae` INT NOT NULL
 )
  
- 
 -- -------------------------------------------------------
 -- Inserts nas tabelas tb_cliente e tb_treino
 -- -------------------------------------------------------
